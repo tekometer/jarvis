@@ -1,9 +1,0 @@
-#JSGF V1.0;
-
-/**
- * JSGF Grammar for Hello World example
- */
-
-grammar hello;
-
-public <greet> = (Good morning | Hello | Wake up | Jarvis | How is | Who is | what is mandy | thank you) (power off tv | jarvis | Rich | Bhiksha | Evandro | Paul | Philip | Rita | Post to face book | Mandy | Dang | doing) | (cats);
